@@ -2,6 +2,9 @@
   "name": "heiha-cli",
   "version": "1.0.0",
   "main": "index.js",
+  "author": {
+    "name": "heiha"
+  },
   "repository": "git@github.com:Hei-Ha/WangCLI.git",
   "license": "MIT",
   "bin": "bin/index.js",
